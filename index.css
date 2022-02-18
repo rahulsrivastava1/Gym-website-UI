@@ -92,3 +92,6 @@ body {
   margin-top: 10px;
   width: 75px;
 }
+
+label{
+  cursor:pointer;
